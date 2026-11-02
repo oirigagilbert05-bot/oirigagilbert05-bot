@@ -95,7 +95,6 @@ I enjoy turning ideas into practical solutions through code. I'm continuously le
 
 </div>
 
----
 
 
 
